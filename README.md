@@ -18,3 +18,6 @@ Meus conhecimentos:
 - Conhecimento intermediário em Pacote Office (Word, Excel, PowerPoint).
 
 Gosto de me exercitar ao ar livre, jogar, ver animes, séries e aprender coisas novas.
+
+![xa4sDsi](https://github.com/EricNunes0/EricNunes0/assets/90226385/d1bf56ff-ba28-4c3e-93ff-b2f97aae533e) ![Qf2JKsE](https://github.com/EricNunes0/EricNunes0/assets/90226385/b3b39106-df24-47a9-a37e-86a587d97236) ![2xi8y2c](https://github.com/EricNunes0/EricNunes0/assets/90226385/32648998-ed81-44a6-8e88-d8a5fc3cf28a) ![xPXXlmN](https://github.com/EricNunes0/EricNunes0/assets/90226385/90a01b99-bb81-4559-95ce-e71550a53b4c) ![KD8NzbX](https://github.com/EricNunes0/EricNunes0/assets/90226385/23f38e31-e24f-4650-a22f-f6c995e4af94) ![7jfIPn5](https://github.com/EricNunes0/EricNunes0/assets/90226385/8ecabde1-4606-4f5b-9229-62664ec2b63d) ![YDbaGwX](https://github.com/EricNunes0/EricNunes0/assets/90226385/78acc67c-f606-490c-817d-6d6ca1196bc4) ![cM2XWrt](https://github.com/EricNunes0/EricNunes0/assets/90226385/4dc2e6e4-f8cd-4d4c-98b9-93bf4d31f824)
+
