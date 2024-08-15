@@ -1,7 +1,7 @@
 ## Hello, World! 💎✨
 ### Meu nome é Eric Nunes Ramalho, e seja bem-vindo ao meu perfil!
 
-➢ 🍷 19 anos;
+➢ 🍷 20 anos;
 
 ➢ 📍 Rio de Janeiro, RJ - Campo Grande (Zona Oeste)
 
