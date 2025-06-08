@@ -1,18 +1,18 @@
 ## Hello, World! 💎✨
 ### Meu nome é Eric Nunes Ramalho, e seja bem-vindo ao meu perfil!
 
-➢ 🍷 20 anos;
+➢ 🍷 21 anos;
 
 ➢ 📍 Rio de Janeiro, RJ - Campo Grande (Zona Oeste)
 
-➢ 💻 Desenvolvedor Front-end;
+➢ 💻 Desenvolvedor Web;
 
-➢ 👨‍💻 Estudando sobre Desenvolvimento Backend;
+➢ 👨‍💻 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev;
 
-➢ 📘 Cursando Análise e Desenvolvimento de Sistemas na UNESA (Universidade Estácio de Sá);
+➢ 📘 Formado em Análise e Desenvolvimento de Sistemas;
 
-#### Meu objetivo:
-Atualmente estou em busca de estágio na área de desenvolvimento para a web. Desejo contribuir de modo positivo na área que me for designada, utilizando meus conhecimentos adquiridos em projetos pessoais e buscando sempre aprender cada vez mais.
+#### Meu objetivo?
+Ter uma oportunidade de atuar na área de desenvolvimento para a web. Desejo contribuir de modo positivo na área que me for designada, utilizando meus conhecimentos adquiridos em projetos pessoais e buscando sempre aprender cada vez mais.
 
 #### Tecnologias que uso:
 <div>
@@ -23,16 +23,10 @@ Atualmente estou em busca de estágio na área de desenvolvimento para a web. De
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width = "50" height = "50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50" height = "50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "50" height = "50"/>
 </div>
 
